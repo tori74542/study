@@ -61,8 +61,3 @@ for (i in 1:12){
 data %>% View
 
 
-
-
-
-
-
